@@ -5,6 +5,5 @@ streamlit_lottie
 pillow
 urlextract
 wordcloud
-collections
 emoji
 re
