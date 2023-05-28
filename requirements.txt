@@ -6,5 +6,5 @@ pillow
 urlextract
 wordcloud
 emoji
-re
-collections
+regex
+collection
