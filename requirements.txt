@@ -8,3 +8,4 @@ wordcloud
 emoji~=1.6.0
 regex
 collection
+python~=3.10.6
