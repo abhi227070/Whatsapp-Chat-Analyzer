@@ -25,7 +25,7 @@ The WhatsApp Chat Analyzer is a project that leverages machine learning and natu
 ### Installation
 1. Clone the repository:
    ```shell
-   git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+   git clone https://github.com/abhi227070/whatsapp-chat-analyzer.git
    cd whatsapp-chat-analyzer
 
 
