@@ -34,7 +34,7 @@ The WhatsApp Chat Analyzer is a project that leverages machine learning and natu
 
 pip install -r requirements.txt
 
-#Usage
+## Usage
 
 Open WhatsApp on your mobile or PC.
 Open a WhatsApp chat of a single user or group.
@@ -45,7 +45,7 @@ Upload the file using the WhatsApp Chat Analyzer.
 Select the user (in group chats with multiple users).
 Click on "Show Analysis" to see the results.
 
-#Features
+## Features
 
 Data extraction from WhatsApp chat files.
 Data preprocessing including cleaning and tokenization.
@@ -55,13 +55,13 @@ Monthly and daily chat timelines.
 Activity maps and user engagement analysis.
 
 
-#Screen Shots
+### Screen Shots
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
 
 
-#Contributing
+### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
