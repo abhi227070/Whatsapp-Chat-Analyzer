@@ -55,7 +55,7 @@ Monthly and daily chat timelines.
 Activity maps and user engagement analysis.
 
 
-### Screen Shots
+### Screenshots
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
 ![Screenshot](screenshots/screenshot.png)
