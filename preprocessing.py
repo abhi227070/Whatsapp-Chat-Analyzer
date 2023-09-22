@@ -1,5 +1,10 @@
+# This preprocessing python file helps to preprocess the data into required dataframe format
+
+# Importing the dependencies
 import re
 import pandas as pd
+
+# This function helps to extract the data in a specified format and return the dataframe.
 def preprocessor(data):
     pattern = "\d{1,2}\/\d{2,4}\/\d{2,4},\s\d{1,2}:\d{1,2}\s\w{1,2}\s-\s"
     messages = re.split(pattern, data)[1:]
