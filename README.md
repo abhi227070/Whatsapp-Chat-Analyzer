@@ -53,7 +53,7 @@ Activity maps and user engagement analysis.
 
 
 ### Screenshots
-![Screenshot](Whatsapp Chat Analyzer · Streamlit - Google Chrome 22-09-2023 11_44_42.png)
+![Screenshot](screenshots/screenshot3.png)
 ![Screenshot](screenshots/screenshot1.png)
 ![Screenshot](screenshots/screenshot2.png)
 
